@@ -1,0 +1,28 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "oop and testing for week 10 hw",
+  "main": "app.js",
+  "dependencies": {
+    "inquirer": "^6.5.2",
+    "node": "^17.0.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --verbose test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TATORR/Team-Profilegenerator.git"
+  },
+  "keywords": [
+    "TATORR"
+  ],
+  "author": "Tyler Torres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TATORR/Team-Profilegenerator/issues"
+  },
+  "homepage": "https://github.com/TATORR/Team-Profilegenerator#readme"
+}
